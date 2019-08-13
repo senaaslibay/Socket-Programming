@@ -1,0 +1,10 @@
+C:\Users\Mehmet ASLIBAY\source\repos\SocketProgramlama\Client\bin\Release\Client.exe.config
+C:\Users\Mehmet ASLIBAY\source\repos\SocketProgramlama\Client\bin\Release\Client.exe
+C:\Users\Mehmet ASLIBAY\source\repos\SocketProgramlama\Client\bin\Release\Client.pdb
+C:\Users\Mehmet ASLIBAY\source\repos\SocketProgramlama\Client\obj\Release\Client.csprojAssemblyReference.cache
+C:\Users\Mehmet ASLIBAY\source\repos\SocketProgramlama\Client\obj\Release\Client.Form1.resources
+C:\Users\Mehmet ASLIBAY\source\repos\SocketProgramlama\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Mehmet ASLIBAY\source\repos\SocketProgramlama\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\Mehmet ASLIBAY\source\repos\SocketProgramlama\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ASLIBAY\source\repos\SocketProgramlama\Client\obj\Release\Client.exe
+C:\Users\Mehmet ASLIBAY\source\repos\SocketProgramlama\Client\obj\Release\Client.pdb
